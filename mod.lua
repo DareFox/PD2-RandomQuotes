@@ -17,7 +17,8 @@ local quotes = {
     "Also try Minecraft and Terraria",
     "Don't forget to touch some grass",
     "Press any key (not power button)",
-    "Stop stealing money! That's illegal!"
+    "Stop stealing money! That's illegal!",
+    "This is a random quote"
 }
 
 --[[
