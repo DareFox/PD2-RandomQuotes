@@ -1,0 +1,15 @@
+{
+    "name" : "Random Quotes",
+    "description" : "Show random quote at menu start ('press any key' menu)",
+    "author" : "DareFox",
+    "contact" : "darefoxdev@gmail.com",
+    "version" : "1.0",
+    "blt_version": 2,
+    "priority" : 10,
+    "hooks": [
+      {
+        "hook_id": "lib/entry",
+        "script_path": "mod.lua"
+      }
+	  ],
+}
