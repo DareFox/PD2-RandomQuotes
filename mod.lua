@@ -9,7 +9,7 @@ local quotes = {
     "Hello",
     "Don't try this at home",
     "I stole 3mil $ from federal government and didn't get caught",
-    "Don’t act dumb",
+    "Don't act dumb",
     "Guys, the thermal drill, go get it!",
     "Fo sho!",
     "That civ you killed had a wife and six kids",
