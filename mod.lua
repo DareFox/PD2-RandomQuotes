@@ -80,7 +80,7 @@ end
 local function writeSave(string)
     local file, err = io.open(saveFile, "w+")
     if file then
-        file:write(content .. "\n")
+        file:write(string .. "\n")
         file:close()
     else
         customLog("Error: Unable to open the file for appending. " .. err)
